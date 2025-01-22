@@ -18,7 +18,8 @@ This project provides a Python script and Google Colab notebook to convert markd
    ```bash
    pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client markdown
 
-##Required Dependencies
+## Required Dependencies
+
    google-auth
    google-auth-oauthlib
    google-auth-httplib2
